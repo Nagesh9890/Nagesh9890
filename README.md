@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Myself Nagesh Deshmukh I am Data Science Enthusiast <P>
-I Have Experince of Working on Tools and programming Languages <P>
+<B> Myself Nagesh Deshmukh I am Data Science Enthusiast <B> <P>
+I Have Experience in Working with Tools and Programming Languages <P>
 Machine Learning projects <P>
-Python Pojects <P>
+Python Projects <P>
 Deep Learning <P>
 Natural Language Processing <P>
-Machine Learning Model Deployement <P>
+Machine Learning Model Deployment <P>
 R Language <P>
 Mysql <P>
 Power Bi <P>
-Tablue <P>
-Wordpress Web Designing <P>
+Tableau <P>
+WordPress Web Designing <P>
 
 
