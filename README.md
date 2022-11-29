@@ -6,6 +6,5 @@ the predictive system to customers from Healthcare, Manufacturing & IT Sector
 Recognized & got appreciation for delivering predicting system which increased there profitability of clients by 15 % 
 Worked on various tools like -  Pycharm , Google Colab , Jupyter Notebook , Tableau ( Data Analysis ) , Visual Studio Code , Power BI ( Data Analysis ) , AWS Sagemaker( Machine Learing Model Deployement ) , Microsoft Azure .
 ( Machine Learing Model Deployement ), Heroku ( Machine Learing Model Deployement ), Flask , Steamlit , Basic Knowledge regarding Docker , Data Scrapping using Octoparse , Microsoft Excel , Micrsoft Powerpoint , Basic Level Experience in WordPress Web designing, Digital Marketing through Linked In, Facebook, and Instagram .
-Increased profit of the company by 25 % through process optimisation & Predictive analysis and development of Innovating solutions   
-Generated a total of 150 Crores of sales for  B2B clients of the Company.
+
 
