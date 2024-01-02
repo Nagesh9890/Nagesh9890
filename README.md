@@ -1,4 +1,4 @@
-3.10+  Years of Industry experience as Data Scientist using Machine Learning Algorithms, Deep Learning, Power BI, Tableau, Python, R, SQL, Tensorflow , Sci-kit Learn , Keras  , Computer Vision , Image Processing 
+5+  Years of Industry experience as Data Scientist using Machine Learning Algorithms, Deep Learning, Power BI, Tableau, Python, R, SQL, Tensorflow , Sci-kit Learn , Keras  , Computer Vision , Image Processing 
 Bulit Machine Learning Models for Metaverse 
 Having experince & extensive knowledge of Data Manipulation using My SQL, as well as Carrying our Exploratory Data Analysis, Building Machine Learning & Deep Learning Model Building Using Python & R 
 Used Machine Learning model building and deployment skills to deliver 
